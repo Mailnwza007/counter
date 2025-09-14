@@ -2,9 +2,6 @@
 //import reactLogo from './assets/react.svg'
 //import viteLogo from '/vite.svg'
 import './App.css'
-import CounterInc from './Component/CounterInc'
-import CounterDec from './Component/CounterDec'
-import CounterScore from './Component/CounterScore'
 import TodoInput from './Component/TodoInput'
 import TodoList from './Component/TodoList'
 
